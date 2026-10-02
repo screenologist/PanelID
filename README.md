@@ -11,7 +11,7 @@ It only reads information. Nothing on your computer is changed.
 
 **Right-click** this link and choose **Save link as…**
 
-https://raw.githubusercontent.com/screenologist/panel-id/main/PanelID.ps1
+https://raw.githubusercontent.com/screenologist/panelid/main/PanelID.ps1
 
 Save it to your **Desktop**.
 
